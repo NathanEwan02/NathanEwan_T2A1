@@ -165,3 +165,17 @@ Naeem, T., 2020. What is Data Integrity in a Database. Why Do You Need It?. [onl
 
 Ibm.com. n.d. IBM Docs. [online] Available at: <https://www.ibm.com/docs/en/informix-servers/14.10?topic=integrity-referential> [Accessed 22 October 2021].
 
+Svirca, Z., 2020. Everything you need to know about MVC architecture. [online] Medium. Available at: <https://towardsdatascience.com/everything-you-need-to-know-about-mvc-architecture-3c827930b4c1> [Accessed 25 October 2021].
+
+Fruhlinger, J., 2020. What is information security? Definition, principles, and jobs. [online] CSO Online. Available at: <https://www.csoonline.com/article/3513899/what-is-information-security-definition-principles-and-jobs.html> [Accessed 25 October 2021].
+
+auth0. n.d. What is Authorization? - Examples and definition - Auth0. [online] Available at: <https://auth0.com/intro-to-iam/what-is-authorization/> [Accessed 26 October 2021].
+
+StackShare. n.d. Amazon - Amazon Tech Stack. [online] Available at: <https://stackshare.io/amazon/amazon> [Accessed 26 October 2021].
+
+Richman, D., 2017. Amazon Web Services’ secret weapon: Its custom-made hardware and network. [online] GeekWire. Available at: <https://www.geekwire.com/2017/amazon-web-services-secret-weapon-custom-made-hardware-network/> [Accessed 26 October 2021].
+
+Perepa, S., n.d. What is cloud hosting?. [online] Ibm.com. Available at: <https://www.ibm.com/au-en/cloud/learn/what-is-cloud-hosting> [Accessed 26 October 2021].
+
+Home. 2014. Read the Australian Privacy Principles. [online] Available at: <https://www.oaic.gov.au/privacy/australian-privacy-principles/read-the-australian-privacy-principles> [Accessed 31 October 2021].
+
